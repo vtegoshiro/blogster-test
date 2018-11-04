@@ -1,0 +1,19 @@
+{
+  "name": "blogster-test",
+  "version": "1.0.0",
+  "description": "Teste usando KeystoneJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtegoshiro/blogster-test.git"
+  },
+  "author": "Gustavo Oshiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtegoshiro/blogster-test/issues"
+  },
+  "homepage": "https://github.com/vtegoshiro/blogster-test#readme"
+}
