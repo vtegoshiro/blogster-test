@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vtegoshiro/blogster-test/issues"
   },
-  "homepage": "https://github.com/vtegoshiro/blogster-test#readme"
+  "homepage": "https://github.com/vtegoshiro/blogster-test#readme",
+  "dependencies": {
+    "keystone": "^4.0.0"
+  }
 }
